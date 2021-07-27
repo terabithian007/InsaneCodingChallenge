@@ -10,7 +10,7 @@ We are on a mission to build the best home fitness solution on the planet. We ar
   <a href="https://www.app.insane.ai/careers"><img src="https://i.imgur.com/Acib87qb.png"/></a>
 </p>
 
-This document describes the coding challenge for those interested in working with us.
+This document describes the coding challenge for those interested in working with us. You are free to refer any websites/blogs/videos while attempting this challenge. Just don't forget to mention the major sources in the README file.
 
 ## Swords and Shields
 
@@ -46,6 +46,7 @@ The design of the screens required for this is described in the [Act 1 || Scene 
 A month after the launch of the previous version, players started churning away from the game. A survey of the churned users pointed to a core problem that most of them were facing - "The game had become monotonous". 
 
 In order to tackle this problem, a new feature needs to be added which can add more layers of strategy to the game. In the new version of "Swords and Shields", before the game starts, the player who is creating the game can decide on another combination of 4 tiles which will be used as a tie breaker in case none of the players end up getting any "4 in a line" winning combination. In case of a tie, the player who ends up having more number of these "tie-breaker" combination would win the game.
+Note: Just like the basic working of Tic Tac Toe, any rotated version of the "Tie-breaker" combination should also considered during the scoring.
 
 The design of the screens required for this is described in the [Act 2 || Scene 1](descriptions/act2scene1.pdf)
 
