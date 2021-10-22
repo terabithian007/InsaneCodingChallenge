@@ -22,25 +22,6 @@ For the first prototype, the idea is to create an offline version of the game wh
 
 Your task is to implement this as an app/website using the language and framework of your choice.
 
-### Act 1 || Scene 2 [Back End]
-
-The launch of "Swords and Shields" was a huge success but once the COVID-19 lockdowns started, a lot of users started finding it really difficult to have someone to play the offline version of the game with.
-
-The next task is to make an online version of the game through which 2 friends can play against each other at the comfort/safety of their own homes. 
-
-The design of the screens required for this is described in the [Act 1 || Scene 2](descriptions/act1scene2.pdf)
-
-You will need to use [sockets](https://socket.io/) to develop the multiplayer functionality. If you are not comfortable with sockets then you can figure out a combination of SSE and REST APIs to achieve this (Although sockets would be preferred).
-
-### Act 1 || Scene 3 [Databases]
-
-Once the online version of the game was released, users instantly fell in love with the feature and started playing 100's of matches everyday. As the number of games increased some of the players wanted a feature that allowed them to go through the results of their previous matches, bookmark the ones they liked and filter the results based on won/lost/bookmarked games.
-
-The next task is to build a database that stores the results(final board positions) of the previous matches, allows users to select the matches they liked and filter the results according to their needs.
-
-The design of the screens required for this is described in the [Act 1 || Scene 3](descriptions/act1scene3.pdf)
-
-
 ### Act 2 || Scene 1 [Front End - Game Variation]
 
 A month after the launch of the previous version, players started churning away from the game. A survey of the churned users pointed to a core problem that most of them were facing - "The game had become monotonous". 
